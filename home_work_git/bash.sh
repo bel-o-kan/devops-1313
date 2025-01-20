@@ -6,3 +6,4 @@ do
    let COUNTER=$COUNTER+1 
 done
 echo 'Hello from new_branch'
+echo 'Modified in new_branch'
